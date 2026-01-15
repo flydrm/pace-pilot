@@ -1,16 +1,5 @@
-# pace_pilot
+# app
 
-A new Flutter project.
+这是 Pace Pilot 的 Flutter 应用层（UI/路由/页面）。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+请优先阅读仓库根目录的 `README.md`（包含功能说明、运行方式与 CI 打包说明）。
