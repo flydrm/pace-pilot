@@ -1,0 +1,10 @@
+name: domain
+description: "Pace Pilot domain layer (entities, value objects, use cases)."
+version: 0.0.1
+publish_to: "none"
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  meta: ^1.16.0

@@ -1,0 +1,39 @@
+# Local tooling (vendored SDKs, etc.)
+.tooling/
+
+# Temp/work dirs
+.tmp_*/
+
+# OS files
+.DS_Store
+
+# IDE/editor
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Dart/Flutter/Pub (monorepo-friendly)
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Android local config
+**/android/local.properties
+
+# Gradle cache
+**/.gradle/
+
+# Logs
+**/*.log
+
+# Keystores (never commit)
+**/key.properties
+**/*.keystore
+**/*.jks

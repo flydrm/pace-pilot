@@ -1,0 +1,14 @@
+name: ai
+description: "Pace Pilot AI layer (OpenAI-compatible client, prompts, schemas)."
+version: 0.0.1
+publish_to: "none"
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  dio: ^5.9.0
+  meta: ^1.16.0
+
+  domain:
+    path: ../domain

@@ -1,0 +1,19 @@
+library data;
+
+export 'ai/secure_ai_config_repository.dart';
+export 'backup/backup_file_store.dart';
+export 'backup/backup_models.dart';
+export 'backup/data_backup_service.dart';
+export 'db/app_database.dart';
+export 'export/data_export_service.dart';
+export 'export/data_export_models.dart';
+export 'maintenance/data_maintenance_service.dart';
+export 'notifications/local_notifications_service.dart';
+export 'repositories/drift_task_checklist_repository.dart';
+export 'repositories/drift_task_repository.dart';
+export 'repositories/drift_active_pomodoro_repository.dart';
+export 'repositories/drift_pomodoro_session_repository.dart';
+export 'repositories/drift_pomodoro_config_repository.dart';
+export 'repositories/drift_note_repository.dart';
+export 'repositories/drift_appearance_config_repository.dart';
+export 'repositories/drift_today_plan_repository.dart';
